@@ -1,7 +1,7 @@
 {
   "name": "pt-bina-website",
   "version": "0.1.0",
-  "homepage": "https://binainvesta.com",
+  "homepage": "https://danielrbimo.github.io/PT_Bina_Website",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.4.0",

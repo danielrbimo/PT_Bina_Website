@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PT_Bina_Website/static/css/main.b63d99a7.css",
-    "main.js": "/PT_Bina_Website/static/js/main.fa478261.js",
+    "main.js": "/PT_Bina_Website/static/js/main.83a929ab.js",
     "static/media/video.mp4": "/PT_Bina_Website/static/media/video.fda541de6939ffed409e.mp4",
     "static/media/bimo.jpg": "/PT_Bina_Website/static/media/bimo.9132e51b61dcaf92b71e.jpg",
     "static/media/raina.jpg": "/PT_Bina_Website/static/media/raina.29f9a544d3263c89eb63.jpg",
@@ -24,10 +24,10 @@
     "static/media/left-arrow.svg": "/PT_Bina_Website/static/media/left-arrow.da21225bcf530088451874c9e21c215a.svg",
     "static/media/right-arrow.svg": "/PT_Bina_Website/static/media/right-arrow.d19ce8f87764b5901ed2ca6f0ff22d03.svg",
     "main.b63d99a7.css.map": "/PT_Bina_Website/static/css/main.b63d99a7.css.map",
-    "main.fa478261.js.map": "/PT_Bina_Website/static/js/main.fa478261.js.map"
+    "main.83a929ab.js.map": "/PT_Bina_Website/static/js/main.83a929ab.js.map"
   },
   "entrypoints": [
     "static/css/main.b63d99a7.css",
-    "static/js/main.fa478261.js"
+    "static/js/main.83a929ab.js"
   ]
 }

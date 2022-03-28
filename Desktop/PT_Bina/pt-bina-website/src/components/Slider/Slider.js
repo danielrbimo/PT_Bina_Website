@@ -31,6 +31,7 @@ export default function Slider() {
     }
 
     return (
+
         <div className="container-slider">
             {dataSlider.map((obj, index) => {
                 return (
@@ -39,7 +40,7 @@ export default function Slider() {
                     className={slideIndex === index + 1 ? "slide active-anim" : "slide"}
                     >
                         <img 
-                        src={process.env.PUBLIC_URL + require(`../../images/Imgs/img${index + 1}.jpeg`)} 
+                        src={require(`../../images/Imgs/img${index + 1}.jpeg`)}  
                         />
                     </div>
                 )

@@ -38,6 +38,10 @@ export const TeamsWrapper = styled.div`
     @media screen and (max-width: 1200px){
         grid-template-columns: 1fr 1fr;
     }
+
+    @media screen and (max-width: 390px){
+        width: 380px;
+    }
     
 `
 export const TeamsCard = styled.div`
@@ -61,6 +65,10 @@ export const TeamsCard = styled.div`
     @media screen and (max-width: 580px){
         width: 200px;
         height: 350px;
+    }
+
+    @media screen and (max-width: 390px){
+        width: 155px;
     }
 `
 

@@ -180,4 +180,8 @@ margin: 20px auto 25px auto;
 @media screen and (max-width: 768px) {
     width: 400px;
 }
+
+@media screen and (max-width: 768px) {
+    width: 350px;
+}
 `

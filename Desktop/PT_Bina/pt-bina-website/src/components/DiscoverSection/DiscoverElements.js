@@ -20,6 +20,10 @@ export const DiscoverContainer = styled.div`
         height: 1400px;
     }
 
+    @media screen and (max-width: 390px) {
+        height: 1450px;
+    }
+
 `
 
 
@@ -56,6 +60,11 @@ export const DiscoverWrapper1 = styled.div`
         margin-bottom: -70px;
     }
 
+    @media screen and (max-width: 390px) {
+        width:380px;
+    }
+
+
 `
 
 export const DiscoverWrapper2 = styled.div`
@@ -79,6 +88,10 @@ export const DiscoverWrapper2 = styled.div`
         padding-left: 0px;
     }
 
+    @media screen and (max-width: 390px) {
+        width:380px;
+    }
+
 `
 
 export const DiscoverHead = styled.div`
@@ -92,6 +105,17 @@ export const DiscoverHead = styled.div`
         text-align: center;
     }
 
+    @media screen and (max-width: 700px){
+        width: 390px;
+        padding-left: 60px;
+    }
+
+    @media screen and (max-width: 390px){
+        width: 350px;
+        padding-left: 0px;
+        margin-left: 20px;
+    }
+
 `
 
 export const DiscoverP1 = styled.div`
@@ -103,6 +127,13 @@ export const DiscoverP1 = styled.div`
         width: 450px;
         text-align: center;
     }
+
+    
+    @media screen and (max-width: 390px) {
+        width: 380px;
+        text-align: center;
+        font-size: 16px;
+    }
 `
 
 export const DiscoverP2 = styled.div`
@@ -113,6 +144,12 @@ export const DiscoverP2 = styled.div`
     @media screen and (max-width: 768px) {
         width: 450px;
         text-align: center;
+    }
+
+    @media screen and (max-width: 390px) {
+        width: 380px;
+        text-align: center;
+        font-size: 16px;
     }
 `
 
@@ -127,6 +164,11 @@ export const DiscoverTitle = styled.div`
         text-align: center;
     }
 
+    @media screen and (max-width: 390px) {
+        width: 390px;
+        margin-top: -70px;
+    }
+
 `
 
 export const DiscoverContentWrapper = styled.div`
@@ -138,6 +180,10 @@ export const DiscoverContentWrapper = styled.div`
     @media screen and (max-width: 768px) {
         flex-direction: column;
         grid-template-columns: 1fr;
+    }
+
+    @media screen and (max-width: 390px) {
+        width:380px;
     }
 `
 
